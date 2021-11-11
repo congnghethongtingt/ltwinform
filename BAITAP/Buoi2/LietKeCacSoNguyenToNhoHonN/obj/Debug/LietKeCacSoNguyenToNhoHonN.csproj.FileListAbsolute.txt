@@ -1,0 +1,9 @@
+F:\IT\LTWINDOWS\BT\Buoi2\LietKeCacSoNguyenToNhoHonN\bin\Debug\LietKeCacSoNguyenToNhoHonN.exe.config
+F:\IT\LTWINDOWS\BT\Buoi2\LietKeCacSoNguyenToNhoHonN\bin\Debug\LietKeCacSoNguyenToNhoHonN.exe
+F:\IT\LTWINDOWS\BT\Buoi2\LietKeCacSoNguyenToNhoHonN\bin\Debug\LietKeCacSoNguyenToNhoHonN.pdb
+F:\IT\LTWINDOWS\BT\Buoi2\LietKeCacSoNguyenToNhoHonN\obj\Debug\LietKeCacSoNguyenToNhoHonN.Form1.resources
+F:\IT\LTWINDOWS\BT\Buoi2\LietKeCacSoNguyenToNhoHonN\obj\Debug\LietKeCacSoNguyenToNhoHonN.Properties.Resources.resources
+F:\IT\LTWINDOWS\BT\Buoi2\LietKeCacSoNguyenToNhoHonN\obj\Debug\LietKeCacSoNguyenToNhoHonN.csproj.GenerateResource.cache
+F:\IT\LTWINDOWS\BT\Buoi2\LietKeCacSoNguyenToNhoHonN\obj\Debug\LietKeCacSoNguyenToNhoHonN.csproj.CoreCompileInputs.cache
+F:\IT\LTWINDOWS\BT\Buoi2\LietKeCacSoNguyenToNhoHonN\obj\Debug\LietKeCacSoNguyenToNhoHonN.exe
+F:\IT\LTWINDOWS\BT\Buoi2\LietKeCacSoNguyenToNhoHonN\obj\Debug\LietKeCacSoNguyenToNhoHonN.pdb

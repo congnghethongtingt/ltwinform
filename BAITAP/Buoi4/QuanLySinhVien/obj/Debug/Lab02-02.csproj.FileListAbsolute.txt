@@ -1,0 +1,10 @@
+F:\IT\LTWINDOWS\BT\Buoi4\QuanLySinhVien\obj\Debug\Lab02-02.csproj.AssemblyReference.cache
+F:\IT\LTWINDOWS\BT\Buoi4\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+F:\IT\LTWINDOWS\BT\Buoi4\QuanLySinhVien\obj\Debug\Lab02-02.csproj.GenerateResource.cache
+F:\IT\LTWINDOWS\BT\Buoi4\QuanLySinhVien\obj\Debug\Lab02-02.csproj.CoreCompileInputs.cache
+F:\IT\LTWINDOWS\BT\Buoi4\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+F:\IT\LTWINDOWS\BT\Buoi4\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+F:\IT\LTWINDOWS\BT\Buoi4\QuanLySinhVien\obj\Debug\Lab02_02.form.resources
+F:\IT\LTWINDOWS\BT\Buoi4\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+F:\IT\LTWINDOWS\BT\Buoi4\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+F:\IT\LTWINDOWS\BT\Buoi4\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb

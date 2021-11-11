@@ -1,0 +1,10 @@
+F:\IT\LTWINDOWS\BT\Buoi2\TinhTongDaySo\bin\Debug\TinhTongDaySo.exe.config
+F:\IT\LTWINDOWS\BT\Buoi2\TinhTongDaySo\bin\Debug\TinhTongDaySo.exe
+F:\IT\LTWINDOWS\BT\Buoi2\TinhTongDaySo\bin\Debug\TinhTongDaySo.pdb
+F:\IT\LTWINDOWS\BT\Buoi2\TinhTongDaySo\obj\Debug\TinhTongDaySo.csproj.AssemblyReference.cache
+F:\IT\LTWINDOWS\BT\Buoi2\TinhTongDaySo\obj\Debug\TinhTongDaySo.Form1.resources
+F:\IT\LTWINDOWS\BT\Buoi2\TinhTongDaySo\obj\Debug\TinhTongDaySo.Properties.Resources.resources
+F:\IT\LTWINDOWS\BT\Buoi2\TinhTongDaySo\obj\Debug\TinhTongDaySo.csproj.GenerateResource.cache
+F:\IT\LTWINDOWS\BT\Buoi2\TinhTongDaySo\obj\Debug\TinhTongDaySo.csproj.CoreCompileInputs.cache
+F:\IT\LTWINDOWS\BT\Buoi2\TinhTongDaySo\obj\Debug\TinhTongDaySo.exe
+F:\IT\LTWINDOWS\BT\Buoi2\TinhTongDaySo\obj\Debug\TinhTongDaySo.pdb

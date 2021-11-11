@@ -1,0 +1,10 @@
+F:\IT\LTWINDOWS\BT\Buoi4\BangTinh\bin\Debug\BangTinh.exe.config
+F:\IT\LTWINDOWS\BT\Buoi4\BangTinh\bin\Debug\BangTinh.exe
+F:\IT\LTWINDOWS\BT\Buoi4\BangTinh\bin\Debug\BangTinh.pdb
+F:\IT\LTWINDOWS\BT\Buoi4\BangTinh\obj\Debug\BangTinh.csproj.AssemblyReference.cache
+F:\IT\LTWINDOWS\BT\Buoi4\BangTinh\obj\Debug\BangTinh.Form1.resources
+F:\IT\LTWINDOWS\BT\Buoi4\BangTinh\obj\Debug\BangTinh.Properties.Resources.resources
+F:\IT\LTWINDOWS\BT\Buoi4\BangTinh\obj\Debug\BangTinh.csproj.GenerateResource.cache
+F:\IT\LTWINDOWS\BT\Buoi4\BangTinh\obj\Debug\BangTinh.csproj.CoreCompileInputs.cache
+F:\IT\LTWINDOWS\BT\Buoi4\BangTinh\obj\Debug\BangTinh.exe
+F:\IT\LTWINDOWS\BT\Buoi4\BangTinh\obj\Debug\BangTinh.pdb

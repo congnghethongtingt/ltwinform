@@ -1,0 +1,14 @@
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\bin\Debug\netcoreapp3.1\Lab01Student.exe
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\bin\Debug\netcoreapp3.1\Lab01Student.deps.json
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\bin\Debug\netcoreapp3.1\Lab01Student.runtimeconfig.json
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\bin\Debug\netcoreapp3.1\Lab01Student.runtimeconfig.dev.json
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\bin\Debug\netcoreapp3.1\Lab01Student.dll
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\bin\Debug\netcoreapp3.1\Lab01Student.pdb
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\obj\Debug\netcoreapp3.1\Lab01Student.csproj.AssemblyReference.cache
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\obj\Debug\netcoreapp3.1\Lab01Student.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\obj\Debug\netcoreapp3.1\Lab01Student.AssemblyInfoInputs.cache
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\obj\Debug\netcoreapp3.1\Lab01Student.AssemblyInfo.cs
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\obj\Debug\netcoreapp3.1\Lab01Student.csproj.CoreCompileInputs.cache
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\obj\Debug\netcoreapp3.1\Lab01Student.dll
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\obj\Debug\netcoreapp3.1\Lab01Student.pdb
+F:\IT\LTWINDOWS\THUCHANH\Lab01Student\obj\Debug\netcoreapp3.1\Lab01Student.genruntimeconfig.cache

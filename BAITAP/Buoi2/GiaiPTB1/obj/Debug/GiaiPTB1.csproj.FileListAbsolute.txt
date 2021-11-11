@@ -1,0 +1,10 @@
+F:\IT\LTWINDOWS\BT\Buoi2\GiaiPTB1\bin\Debug\GiaiPTB1.exe.config
+F:\IT\LTWINDOWS\BT\Buoi2\GiaiPTB1\bin\Debug\GiaiPTB1.exe
+F:\IT\LTWINDOWS\BT\Buoi2\GiaiPTB1\bin\Debug\GiaiPTB1.pdb
+F:\IT\LTWINDOWS\BT\Buoi2\GiaiPTB1\obj\Debug\GiaiPTB1.csproj.AssemblyReference.cache
+F:\IT\LTWINDOWS\BT\Buoi2\GiaiPTB1\obj\Debug\GiaiPTB1.Form1.resources
+F:\IT\LTWINDOWS\BT\Buoi2\GiaiPTB1\obj\Debug\GiaiPTB1.Properties.Resources.resources
+F:\IT\LTWINDOWS\BT\Buoi2\GiaiPTB1\obj\Debug\GiaiPTB1.csproj.GenerateResource.cache
+F:\IT\LTWINDOWS\BT\Buoi2\GiaiPTB1\obj\Debug\GiaiPTB1.csproj.CoreCompileInputs.cache
+F:\IT\LTWINDOWS\BT\Buoi2\GiaiPTB1\obj\Debug\GiaiPTB1.exe
+F:\IT\LTWINDOWS\BT\Buoi2\GiaiPTB1\obj\Debug\GiaiPTB1.pdb

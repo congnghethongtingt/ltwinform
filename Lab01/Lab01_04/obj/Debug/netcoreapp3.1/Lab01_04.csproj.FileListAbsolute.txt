@@ -1,0 +1,14 @@
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\bin\Debug\netcoreapp3.1\Lab01_04.exe
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\bin\Debug\netcoreapp3.1\Lab01_04.deps.json
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\bin\Debug\netcoreapp3.1\Lab01_04.runtimeconfig.json
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\bin\Debug\netcoreapp3.1\Lab01_04.runtimeconfig.dev.json
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\bin\Debug\netcoreapp3.1\Lab01_04.dll
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\bin\Debug\netcoreapp3.1\Lab01_04.pdb
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\obj\Debug\netcoreapp3.1\Lab01_04.csproj.AssemblyReference.cache
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\obj\Debug\netcoreapp3.1\Lab01_04.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\obj\Debug\netcoreapp3.1\Lab01_04.AssemblyInfoInputs.cache
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\obj\Debug\netcoreapp3.1\Lab01_04.AssemblyInfo.cs
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\obj\Debug\netcoreapp3.1\Lab01_04.csproj.CoreCompileInputs.cache
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\obj\Debug\netcoreapp3.1\Lab01_04.dll
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\obj\Debug\netcoreapp3.1\Lab01_04.pdb
+F:\IT\LTWINDOWS\THUCHANH\Lab01_04\obj\Debug\netcoreapp3.1\Lab01_04.genruntimeconfig.cache

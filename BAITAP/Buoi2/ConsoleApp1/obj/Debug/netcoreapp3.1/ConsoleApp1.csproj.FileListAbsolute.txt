@@ -1,0 +1,13 @@
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\IT\LTWINDOWS\BT\Buoi2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

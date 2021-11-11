@@ -1,0 +1,10 @@
+F:\IT\LTWINDOWS\BT\Buoi2\TimSoDao\bin\Debug\TimSoDao.exe.config
+F:\IT\LTWINDOWS\BT\Buoi2\TimSoDao\bin\Debug\TimSoDao.exe
+F:\IT\LTWINDOWS\BT\Buoi2\TimSoDao\bin\Debug\TimSoDao.pdb
+F:\IT\LTWINDOWS\BT\Buoi2\TimSoDao\obj\Debug\TimSoDao.csproj.AssemblyReference.cache
+F:\IT\LTWINDOWS\BT\Buoi2\TimSoDao\obj\Debug\TimSoDao.Properties.Resources.resources
+F:\IT\LTWINDOWS\BT\Buoi2\TimSoDao\obj\Debug\TimSoDao.csproj.GenerateResource.cache
+F:\IT\LTWINDOWS\BT\Buoi2\TimSoDao\obj\Debug\TimSoDao.csproj.CoreCompileInputs.cache
+F:\IT\LTWINDOWS\BT\Buoi2\TimSoDao\obj\Debug\TimSoDao.exe
+F:\IT\LTWINDOWS\BT\Buoi2\TimSoDao\obj\Debug\TimSoDao.pdb
+F:\IT\LTWINDOWS\BT\Buoi2\TimSoDao\obj\Debug\TimSoDao.TimSoDao.resources

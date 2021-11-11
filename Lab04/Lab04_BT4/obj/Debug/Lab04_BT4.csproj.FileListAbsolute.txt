@@ -1,0 +1,14 @@
+F:\IT\LTWINDOWS\Lab04_BT4\bin\Debug\Lab04_BT4.exe.config
+F:\IT\LTWINDOWS\Lab04_BT4\bin\Debug\Lab04_BT4.exe
+F:\IT\LTWINDOWS\Lab04_BT4\bin\Debug\Lab04_BT4.pdb
+F:\IT\LTWINDOWS\Lab04_BT4\bin\Debug\EntityFramework.dll
+F:\IT\LTWINDOWS\Lab04_BT4\bin\Debug\EntityFramework.SqlServer.dll
+F:\IT\LTWINDOWS\Lab04_BT4\bin\Debug\EntityFramework.xml
+F:\IT\LTWINDOWS\Lab04_BT4\bin\Debug\EntityFramework.SqlServer.xml
+F:\IT\LTWINDOWS\Lab04_BT4\obj\Debug\Lab04_BT4.Form1.resources
+F:\IT\LTWINDOWS\Lab04_BT4\obj\Debug\Lab04_BT4.Properties.Resources.resources
+F:\IT\LTWINDOWS\Lab04_BT4\obj\Debug\Lab04_BT4.csproj.GenerateResource.cache
+F:\IT\LTWINDOWS\Lab04_BT4\obj\Debug\Lab04_BT4.csproj.CoreCompileInputs.cache
+F:\IT\LTWINDOWS\Lab04_BT4\obj\Debug\Lab04_BT4.csproj.CopyComplete
+F:\IT\LTWINDOWS\Lab04_BT4\obj\Debug\Lab04_BT4.exe
+F:\IT\LTWINDOWS\Lab04_BT4\obj\Debug\Lab04_BT4.pdb
